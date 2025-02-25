@@ -43,7 +43,6 @@
 ### 🔧 Tools & IDEs  
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
@@ -53,9 +52,6 @@
 ### 📊 GitHub Stats:  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=borat11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=borat11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borat11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
